@@ -1,4 +1,4 @@
 {
-  "version": "1.0.2",
-  "bin": "https://raw.githubusercontent.com/Namia26/esp32-ota-update/main/firmware_v1.0.2.bin"
+  "version": "1.0.0",
+  "bin": "https://raw.githubusercontent.com/Namia26/esp32-ota-update/main/firmwares/firmware_v1.0.0.bin"
 }
